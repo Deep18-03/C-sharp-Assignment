@@ -1,0 +1,59 @@
+﻿
+@{ ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml"; }
+
+<style>
+    .row {
+        padding: 125px;
+        text-decoration-style: solid;
+    }
+
+    .Name {
+        text-transform: capitalize;
+        font-size: 40px;
+    }
+
+    .container-footer {
+        margin: 0px 0px 0px 70px;
+    }
+
+    footer {
+        padding: 10px;
+        position: absolute;
+        bottom: 0;
+        width: 100vh;
+    }
+
+        footer p {
+            color: #333333;
+            line-height: 20px;
+            margin: 0;
+            width: auto;
+            display: inline-block;
+        }
+</style>
+<!-- Bootstrap CSS -->
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<div class="row justify-content-center align-items-center h-100">
+    @if (TempData["EmptyProduct"] != null)
+    {
+<script type="text/javascript">
+            $(document).ready(function () {
+                    alert('@TempData["EmptyProduct"]');
+            });
+</script>}
+    <h1>W<span style="font-size:30px;">ELCOME:</span> <span class="Name"></span>@HttpContext.Current.Session["userName"]</h1>
+
+</div>
+<!--Footer-->
+
+<footer class="text-left" style="width:1000px">
+    <hr />
+    <div class="container-footer">
+        <p>
+            Copyright &copy; All Rights Reserved.
+        </p>
+    </div>
+
+</footer>

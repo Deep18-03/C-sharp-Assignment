@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/VerticalMenu.css" rel="stylesheet" />
+    <style>
+        body {
+            padding: 0 !important;
+            background-color: whitesmoke;
+        }
+
+        .list-group {
+            padding-top: 20px;
+        }
+        .color {
+            background-color: #404040;
+            padding: 6px 8px 6px 16px;
+            text-decoration: none;
+            font-size: 10px;
+            color: black;
+            display: block;
+        }
+        .logout {
+            position:absolute;
+            top:10px;
+            right:0px;
+            
+
+        }
+    </style>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="d-flex" id="wrapper">
+
+        <!-- Sidebar -->
+        <section class="Side-Menu">
+            <div class="border-right" id="sidebar-wrapper">
+                <div class="sidebar-heading color">
+                    @Html.ActionLink("Product Management", "Index", "PMS", new { area = "" }, new { @class = "navbar-brand navbar-link" })
+                </div>
+                <div class="list-group list-group-flush" >
+                   
+                    @Html.ActionLink("Add Product", "AddProduct", "PMS", new { area = "" }, new { @class = "list-group-item list-group-item-action " })
+                    @Html.ActionLink("Product list", "Products", "PMS", new { area = "" }, new { @class = "list-group-item list-group-item-action " })
+                    
+                </div>
+            </div>
+        </section>
+            <!-- /#sidebar-wrapper -->
+            <!-- Page Content -->
+            <div id="page-content-wrapper">
+                        <button class="btn logout">
+                            @Html.ActionLink("Logout", "Logout", "PMS", new { area = "" }, new { @class = "navbar-brand navbar-link" })
+                        </button>
+                 
+                <div class="container body-content">
+                    @RenderBody()
+
+                </div>
+            </div>
+            <!-- /#page-content-wrapper -->
+
+    </div>
+    <!-- /#wrapper -->
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+</body>
+</html>

@@ -1,0 +1,110 @@
+﻿@model PMS.Model.UserData
+
+@{
+    ViewBag.Title = "Login";
+}
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <style>
+        body {
+            background-color: whitesmoke;
+        }
+        .col h2 {
+            padding: 10px;
+            padding-bottom: 3px;
+            text-align: center;
+            font-size: 32px;
+            font-weight: 700;
+            
+        }
+
+        input {
+            width: 290px;
+        }
+        .Registration-link {
+            text-decoration: none;
+            color: black;
+            /*border:2px solid black;*/
+        }
+        .Registration-link:hover {
+                text-decoration: underline;
+                color: black;
+         }
+        .form-control {
+            z-index: 0 !important;
+            
+        }
+        .button{
+            width:50%;
+            margin:10px;
+        }
+        .insidebox {
+            border: 1px solid black;
+            margin: 2% auto 10% auto;
+            max-width: 500px;
+            min-width: 200px;
+            padding-left: 60px;
+            padding-right: 80px;
+            border-radius: 10px;
+            background-color: rgb(128, 128, 128);
+        }
+    </style>
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+
+</head>
+<div class="container-fluid h-100">
+    <div class="row justify-content-center align-items-center h-100">
+        <div class="insidebox">
+            <h2>Sign In</h2>
+            <hr />
+            @using (Html.BeginForm("Login", "PMS", FormMethod.Post))
+            {
+                @Html.AntiForgeryToken()
+                if (TempData["LoginMessage"] != null)
+                {
+                    <script type="text/javascript">
+                        $(document).ready(function () {
+                                alert('@TempData["LoginMessage"]');
+                        });
+                    </script>
+                }
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(model => model.Email, new { htmlAttributes = new { @class = "form-control form-control-lg" } })
+                        @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Password, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.PasswordFor(model => model.Password, new { htmlAttributes = new { @class = "form-control form-control-lg" } })
+                       
+                        @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="Login" class="btn btn-success bottom-left button" />
+                    <input type="reset" value="Reset" class="btn btn-danger bottom-right button" />
+                </div>
+            }
+            @Html.ActionLink("Don't have account?", "CreateUser", "PMS", new { area = "" }, new { @class = "Registration-link" })
+        </div>
+    </div>
+</div>
+
+
+@Scripts.Render("~/bundles/jquery")
+@Scripts.Render("~/bundles/bootstrap")
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+

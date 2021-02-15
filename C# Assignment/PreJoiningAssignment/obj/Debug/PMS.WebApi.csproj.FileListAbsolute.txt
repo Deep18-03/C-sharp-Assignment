@@ -1,0 +1,480 @@
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\PreJoiningAssignment.dll.config
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\PreJoiningAssignment.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\PreJoiningAssignment.pdb
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\csc.exe
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\csc.exe.config
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\csc.rsp
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\csi.exe
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\csi.exe.config
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\csi.rsp
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\Microsoft.Managed.Core.targets
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.AppContext.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Collections.Immutable.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Console.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Globalization.Calendars.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.IO.Compression.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.IO.FileSystem.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Net.Http.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Net.Sockets.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Reflection.Metadata.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.ValueTuple.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Xml.XmlDocument.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Xml.XPath.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\vbc.exe
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\vbc.exe.config
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\vbc.rsp
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\VBCSCompiler.exe
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\VBCSCompiler.exe.config
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Antlr3.Runtime.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Web.Infrastructure.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Newtonsoft.Json.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\PMS.BAL.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\PMS.DAL.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\PMS.Model.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Net.Http.Formatting.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Runtime.CompilerServices.Unsafe.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.Helpers.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.Http.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.Http.WebHost.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.Mvc.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.Optimization.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.Razor.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.WebPages.Deployment.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.WebPages.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.WebPages.Razor.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Unity.Abstractions.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Unity.Container.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Unity.WebApi.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\WebGrease.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\AutoMapper.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\EntityFramework.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Threading.Tasks.Extensions.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\PMS.BAL.pdb
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\PMS.DAL.pdb
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\PMS.DAL.dll.config
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\PMS.Model.pdb
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\PMS.Model.dll.config
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Runtime.CompilerServices.Unsafe.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Newtonsoft.Json.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Net.Http.Formatting.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.Helpers.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.Http.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.Http.WebHost.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.Mvc.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.Optimization.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.Razor.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.WebPages.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.WebPages.Deployment.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.WebPages.Razor.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Unity.Abstractions.pdb
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Unity.Container.pdb
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Antlr3.Runtime.pdb
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\AutoMapper.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\EntityFramework.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\obj\Debug\PMS.WebApi.csprojAssemblyReference.cache
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\obj\Debug\PMS.WebApi.csproj.CoreCompileInputs.cache
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\obj\Debug\PMS.WebApi.csproj.CopyComplete
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\obj\Debug\PreJoiningAssignment.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\obj\Debug\PreJoiningAssignment.pdb
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\EntityFramework.SqlServer.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\EntityFramework.SqlServer.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.DataProtection.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Http.Features.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Session.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.Caching.Abstractions.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.Logging.Abstractions.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.Options.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.Primitives.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Win32.Registry.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Buffers.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.ComponentModel.Annotations.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Memory.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Numerics.Vectors.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Security.AccessControl.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Security.Cryptography.Xml.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Security.Permissions.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Security.Principal.Windows.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Text.Encodings.Web.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.DataProtection.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Http.Features.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Session.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.Caching.Abstractions.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.Logging.Abstractions.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.Options.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.Primitives.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Buffers.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Memory.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Numerics.Vectors.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\System.Text.Encodings.Web.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\PagedList.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\PagedList.Mvc.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\PagedList.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\PagedList.Mvc.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\NLog.config
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\NLog.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PreJoiningAssignment\bin\NLog.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\NLog.config
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\PreJoiningAssignment.dll.config
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\PreJoiningAssignment.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\PreJoiningAssignment.pdb
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\csc.exe
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\csc.rsp
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\csi.exe
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\csi.rsp
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Net.Http.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\vbc.exe
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\EntityFramework.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Session.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Win32.Registry.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\NLog.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\PagedList.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\PagedList.Mvc.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\PMS.BAL.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\PMS.DAL.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\PMS.Model.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Buffers.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.ComponentModel.Annotations.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Memory.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Net.Http.Formatting.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Numerics.Vectors.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Security.AccessControl.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Security.Cryptography.Xml.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Security.Permissions.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Security.Principal.Windows.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Text.Encodings.Web.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.Http.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.Http.WebHost.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.Razor.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Unity.Abstractions.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Unity.Container.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Unity.WebApi.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\WebGrease.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\AutoMapper.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\PMS.BAL.pdb
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\PMS.DAL.pdb
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\PMS.DAL.dll.config
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\PMS.Model.pdb
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\PMS.Model.dll.config
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\EntityFramework.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Session.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.Options.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\NLog.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\PagedList.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\PagedList.Mvc.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Buffers.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Memory.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Numerics.Vectors.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Text.Encodings.Web.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Net.Http.Formatting.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.Http.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.Http.WebHost.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.Razor.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Unity.Abstractions.pdb
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Unity.Container.pdb
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\bin\AutoMapper.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\obj\Debug\PMS.WebApi.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\obj\Debug\PMS.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\obj\Debug\PMS.WebApi.csproj.CopyComplete
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\obj\Debug\PreJoiningAssignment.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PreJoiningAssignment\obj\Debug\PreJoiningAssignment.pdb
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\NLog.config
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\PreJoiningAssignment.dll.config
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\PreJoiningAssignment.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\PreJoiningAssignment.pdb
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\csc.exe
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\csc.exe.config
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\csc.rsp
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\csi.exe
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\csi.exe.config
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\csi.rsp
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\System.AppContext.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\System.Collections.Immutable.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\System.Console.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\System.Globalization.Calendars.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\System.IO.Compression.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\System.IO.FileSystem.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\System.Net.Http.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\System.Net.Sockets.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\System.Reflection.Metadata.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\System.ValueTuple.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\System.Xml.XPath.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\vbc.exe
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\vbc.exe.config
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\vbc.rsp
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\VBCSCompiler.exe
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\roslyn\VBCSCompiler.exe.config
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Antlr3.Runtime.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\EntityFramework.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\EntityFramework.SqlServer.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Session.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.Extensions.Options.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.Extensions.Primitives.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.Web.Infrastructure.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.Win32.Registry.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Newtonsoft.Json.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\NLog.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\PagedList.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\PagedList.Mvc.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\PMS.BAL.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\PMS.DAL.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\PMS.Model.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Buffers.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.ComponentModel.Annotations.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Memory.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Net.Http.Formatting.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Numerics.Vectors.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Security.AccessControl.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Security.Cryptography.Xml.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Security.Permissions.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Security.Principal.Windows.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Text.Encodings.Web.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Web.Helpers.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Web.Http.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Web.Http.WebHost.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Web.Mvc.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Web.Optimization.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Web.Razor.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Web.WebPages.Deployment.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Web.WebPages.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Web.WebPages.Razor.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Unity.Abstractions.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Unity.Container.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Unity.WebApi.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\WebGrease.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\AutoMapper.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Threading.Tasks.Extensions.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\PMS.BAL.pdb
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\PMS.DAL.pdb
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\PMS.DAL.dll.config
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\PMS.Model.pdb
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\PMS.Model.dll.config
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\EntityFramework.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\EntityFramework.SqlServer.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.AspNetCore.Session.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.Extensions.Options.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.Extensions.Primitives.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\NLog.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\PagedList.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\PagedList.Mvc.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Buffers.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Memory.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Numerics.Vectors.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Text.Encodings.Web.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Newtonsoft.Json.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Net.Http.Formatting.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Web.Helpers.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Web.Http.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Web.Http.WebHost.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Web.Mvc.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Web.Optimization.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Web.Razor.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Web.WebPages.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Web.WebPages.Deployment.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\System.Web.WebPages.Razor.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Unity.Abstractions.pdb
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Unity.Container.pdb
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Antlr3.Runtime.pdb
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\bin\AutoMapper.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\obj\Debug\PMS.WebApi.csprojAssemblyReference.cache
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\obj\Debug\PMS.WebApi.csproj.CoreCompileInputs.cache
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\obj\Debug\PMS.WebApi.csproj.CopyComplete
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\obj\Debug\PreJoiningAssignment.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PreJoiningAssignment\obj\Debug\PreJoiningAssignment.pdb

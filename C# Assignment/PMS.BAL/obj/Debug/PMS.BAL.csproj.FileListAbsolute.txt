@@ -1,0 +1,60 @@
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PMS.BAL\bin\Debug\PMS.BAL.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PMS.BAL\bin\Debug\PMS.BAL.pdb
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PMS.BAL\bin\Debug\PMS.DAL.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PMS.BAL\bin\Debug\PMS.Model.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PMS.BAL\bin\Debug\AutoMapper.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PMS.BAL\bin\Debug\EntityFramework.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PMS.BAL\bin\Debug\PMS.DAL.pdb
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PMS.BAL\bin\Debug\PMS.DAL.dll.config
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PMS.BAL\bin\Debug\PMS.Model.pdb
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PMS.BAL\bin\Debug\PMS.Model.dll.config
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PMS.BAL\bin\Debug\AutoMapper.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PMS.BAL\bin\Debug\EntityFramework.xml
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PMS.BAL\obj\Debug\PMS.BAL.csprojAssemblyReference.cache
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PMS.BAL\obj\Debug\PMS.BAL.csproj.CoreCompileInputs.cache
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PMS.BAL\obj\Debug\PMS.BAL.csproj.CopyComplete
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PMS.BAL\obj\Debug\PMS.BAL.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PMS.BAL\obj\Debug\PMS.BAL.pdb
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PMS.BAL\bin\Debug\NLog.config
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PMS.BAL\bin\Debug\NLog.dll
+H:\GateWay\PreJoiningAssignment\PreJoiningAssignment\PMS.BAL\bin\Debug\NLog.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PMS.BAL\bin\Debug\NLog.config
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PMS.BAL\bin\Debug\PMS.BAL.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PMS.BAL\bin\Debug\PMS.BAL.pdb
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PMS.BAL\bin\Debug\PMS.DAL.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PMS.BAL\bin\Debug\PMS.Model.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PMS.BAL\bin\Debug\NLog.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PMS.BAL\bin\Debug\AutoMapper.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PMS.BAL\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PMS.BAL\bin\Debug\PMS.DAL.pdb
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PMS.BAL\bin\Debug\PMS.DAL.dll.config
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PMS.BAL\bin\Debug\PMS.Model.pdb
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PMS.BAL\bin\Debug\PMS.Model.dll.config
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PMS.BAL\bin\Debug\NLog.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PMS.BAL\bin\Debug\AutoMapper.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PMS.BAL\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PMS.BAL\obj\Debug\PMS.BAL.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PMS.BAL\obj\Debug\PMS.BAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PMS.BAL\obj\Debug\PMS.BAL.csproj.CopyComplete
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PMS.BAL\obj\Debug\PMS.BAL.dll
+C:\Users\ASUS\Downloads\Compressed\Company-Assignment-FinalSCFA\PreJoiningAssignment\PMS.BAL\obj\Debug\PMS.BAL.pdb
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PMS.BAL\bin\Debug\NLog.config
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PMS.BAL\bin\Debug\PMS.BAL.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PMS.BAL\bin\Debug\PMS.BAL.pdb
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PMS.BAL\bin\Debug\PMS.DAL.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PMS.BAL\bin\Debug\PMS.Model.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PMS.BAL\bin\Debug\NLog.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PMS.BAL\bin\Debug\AutoMapper.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PMS.BAL\bin\Debug\EntityFramework.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PMS.BAL\bin\Debug\PMS.DAL.pdb
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PMS.BAL\bin\Debug\PMS.DAL.dll.config
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PMS.BAL\bin\Debug\PMS.Model.pdb
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PMS.BAL\bin\Debug\PMS.Model.dll.config
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PMS.BAL\bin\Debug\NLog.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PMS.BAL\bin\Debug\AutoMapper.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PMS.BAL\bin\Debug\EntityFramework.xml
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PMS.BAL\obj\Debug\PMS.BAL.csprojAssemblyReference.cache
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PMS.BAL\obj\Debug\PMS.BAL.csproj.CoreCompileInputs.cache
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PMS.BAL\obj\Debug\PMS.BAL.csproj.CopyComplete
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PMS.BAL\obj\Debug\PMS.BAL.dll
+C:\Storage Files\Deep\Gateway Groups\Company Assignment\Submitted\C# Assignment\PMS.BAL\obj\Debug\PMS.BAL.pdb
